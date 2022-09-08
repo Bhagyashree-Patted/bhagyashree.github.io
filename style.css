@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navstyle{
+    background-color:palevioletred;
+    height: 70px;
+    border: 2px solid black;
+    border-radius:30px;
+}
+.homestyle{
+    border: 2px solid black;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.skillstyle{
+    
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.footstyle{
+    background-color:palevioletred;
+    color:brown;
+    margin-top: 30px;
+}
+button{
+    margin-left: 80px;
+    padding:10px;
+    background-color:#E7ECEF;
+    border: 2px solid black;
+}
